@@ -1,3 +1,7 @@
+'''
+fix missing ng-vocab.tsv issue
+https://github.com/sujitpal/eeap-examples/issues/3
+'''
 # -*- coding: utf-8 -*-
 from __future__ import division, print_function
 from sklearn.datasets import fetch_20newsgroups
